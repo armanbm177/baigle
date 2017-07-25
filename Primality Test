@@ -1,0 +1,12 @@
+N=
+answer=True
+
+for i in range(2,N):
+     rem=N%i
+     if rem ==0:
+          answer=False
+
+if answer==True:
+     print "it is prime"
+else:
+     print "it is not prime"
