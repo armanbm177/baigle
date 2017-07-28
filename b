@@ -1,0 +1,38 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+                           MLRAALSTARRGPRLS-RLLSAAATSAVPAPNQQPEVFCNQIFINNEWHDAVSKKTFPTV
+sp|P05091|ALDH2_HUMAN      MLRAA---ARFGPRLGRRLLSAAATQAVPAPNQQPEVFCNQIFINNEWHDAVSRKTFPTV
+                           *****   ** ****. ********.***************************.******
+
+                           NPSTGEVICQVAEGNKEDVDKAVKAAQAAFQLGSPWRRMDASDRGRLLYRLADLIERDRT
+sp|P05091|ALDH2_HUMAN      NPSTGEVICQVAEGDKEDVDKAVKAARAAFQLGSPWRRMDASHRGRLLNRLADLIERDRT
+                           **************:***********.*************** ***** ***********
+
+                           YLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTRHEPVG
+sp|P05091|ALDH2_HUMAN      YLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTRHEPVG
+                           ************************************************************
+
+                           VCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPPGVVNI
+sp|P05091|ALDH2_HUMAN      VCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPPGVVNI
+                           ************************************************************
+
+                           VPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGSSNLKRVTLELGGKSPNIIMSD
+sp|P05091|ALDH2_HUMAN      VPGFGPTAGAAIASHEDVDKVAFTGSTEIGRVIQVAAGSSNLKRVTLELGGKSPNIIMSD
+                           ****************************:*.:****************************
+
+                           ADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYDEFVERSVARAKSRVVGNPFDSRTE
+sp|P05091|ALDH2_HUMAN      ADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYDEFVERSVARAKSRVVGNPFDSKTE
+                           *********************************:***********************.**
+
+                           QGPQVDETQFKKILGYIKSGQQEGAKLLCGGGAAADRGYFIQPTVFGDVKDGMTIAKEEI
+sp|P05091|ALDH2_HUMAN      QGPQVDETQFKKILGYINTGKQEGAKLLCGGGIAADRGYFIQPTVFGDVQDGMTIAKEEI
+                           *****************::*:*********** ****************:**********
+
+                           FGPVMQILKFKTIEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWINCYDVFG
+sp|P05091|ALDH2_HUMAN      FGPVMQILKFKTIEEVVGRANNSTYGLAAAVFTKDLDKANYLSQALQAGTVWVNCYDVFG
+                           ***********************.****************************:*******
+
+                           AQSPFGGYKMSGSGRELGEYGLQAYTEVKTVTVKVPQKNS
+sp|P05091|ALDH2_HUMAN      AQSPFGGYKMSGSGRELGEYGLQAYTEVKTVTVKVPQKNS
+                           ****************************************
